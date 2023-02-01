@@ -3,16 +3,11 @@ import BookCreate from "./Components/BookCreate";
 function App() {
   const [books, setBooks] = useState([]);
 
-  // Create a Book
-  const createBook = (title) => {
-    console.log("Title:", title);
+  const createBook = (item) => {
+    console.log(item);
   };
 
-  return (
-    <div>
-      <BookCreate onCreate={createBook} />
-    </div>
-  );
+  return <BookCreate onCreate={createBook} />;
 }
 
 export default App;
