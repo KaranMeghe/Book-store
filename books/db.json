@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Man vs Wild",
+      "id": 1
+    },
+    {
+      "title": "Superman: Man of Steel",
+      "id": 3
+    },
+    {
+      "title": "Batman: Year One",
+      "id": 5
+    },
+    {
+      "title": "Prince of Pericia",
+      "id": 6
+    },
+    {
+      "title": "God of War",
+      "id": 7
+    }
+  ]
+}
