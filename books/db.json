@@ -1,11 +1,7 @@
 {
   "books": [
     {
-      "title": "Man vs Wild",
-      "id": 1
-    },
-    {
-      "title": "Superman: Man of Steel",
+      "title": "Superman: Man of Steel 2",
       "id": 3
     },
     {
@@ -19,6 +15,18 @@
     {
       "title": "God of War",
       "id": 7
+    },
+    {
+      "title": "Legendary Assassin",
+      "id": 8
+    },
+    {
+      "title": "Book of egypt",
+      "id": 9
+    },
+    {
+      "title": "God Of War : Ragnarok",
+      "id": 10
     }
   ]
 }
